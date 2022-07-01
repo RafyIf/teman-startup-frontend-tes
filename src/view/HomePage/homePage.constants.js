@@ -1,0 +1,9 @@
+export const HOME_INJECTOR = 'home';
+
+export const GET_COURSE_REQUEST = 'home/GET_COURSE_REQUEST';
+export const GET_COURSE_SUCCESS = 'home/GET_COURSE_SUCCESS';
+export const GET_COURSE_ERROR = 'home/GET_COURSE_ERROR';
+
+export const GET_PRODUCT_REQUEST = 'home/GET_PRODUCT_REQUEST';
+export const GET_PRODUCT_SUCCESS = 'home/GET_PRODUCT_SUCCESS';
+export const GET_PRODUCT_ERROR = 'home/GET_PRODUCT_ERROR';
